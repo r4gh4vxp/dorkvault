@@ -221,7 +221,7 @@ button:active {
 .results-container {
     overflow-y: auto;
     padding-right: 10px;
-    height: 700px;
+    height: 650px;
 }
 
 .result-card {
